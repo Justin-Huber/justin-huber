@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Find out more about me at [justin-huber.github.io](https://justin-huber.github.io). (Heavily WIP)
+Find out more about me at [justin-huber.github.io](https://justin-huber.github.io).
